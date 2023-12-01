@@ -1,0 +1,36 @@
+body{
+	font-family: Arial, sans-serif;
+	text-align: left;
+	padding: 20px;
+	margin: auto;
+}
+
+
+#Axel {
+	text-align: center;
+	background-color: royalblue;
+	color: white;
+	padding: 20px;
+	width: 97%;
+	font-variant:small-caps;
+
+	
+	}
+
+#Miguel {
+	text-align: center;
+	background-color: Red;
+	color: white;
+	padding: 20px;
+	width: 97%;
+	font-variant: small-caps;	
+}
+
+#Chapel {
+	text-align: center;
+	background-color: limegreen;
+	color: white;
+	padding: 20px;
+	width: 97%;
+	font-variant:small-caps;
+}
